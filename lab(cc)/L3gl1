@@ -1,0 +1,25 @@
+using System;
+using System.Text.RegularExpressions;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Enter a floating-point number (max length 6):");
+        string userInput = Console.ReadLine();
+
+        // Regular expression for floating-point numbers (max length 6)
+        string pattern = @"^\d{1,4}(\.\d{1,2})?$";
+
+        int length = userInput.Length; // Calculate length of input
+
+        if (Regex.IsMatch(userInput, pattern) && length <= 6)
+        {
+            Console.WriteLine($"\n'{userInput}' is a valid floating-point number with length {length} characters.");
+        }
+        else
+        {
+            Console.WriteLine($"\n'{userInput}' is NOT a valid floating-point number. Length: {length} characters.");
+        }
+    }
+}
