@@ -1,0 +1,7 @@
+D:\CC-labmid\q3\q3\bin\Debug\q3.exe.config
+D:\CC-labmid\q3\q3\bin\Debug\q3.exe
+D:\CC-labmid\q3\q3\bin\Debug\q3.pdb
+D:\CC-labmid\q3\q3\obj\Debug\q3.csproj.AssemblyReference.cache
+D:\CC-labmid\q3\q3\obj\Debug\q3.csproj.CoreCompileInputs.cache
+D:\CC-labmid\q3\q3\obj\Debug\q3.exe
+D:\CC-labmid\q3\q3\obj\Debug\q3.pdb
