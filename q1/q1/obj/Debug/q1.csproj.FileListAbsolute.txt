@@ -1,0 +1,7 @@
+D:\CC-labmid\q1\q1\bin\Debug\q1.exe.config
+D:\CC-labmid\q1\q1\bin\Debug\q1.exe
+D:\CC-labmid\q1\q1\bin\Debug\q1.pdb
+D:\CC-labmid\q1\q1\obj\Debug\q1.csproj.AssemblyReference.cache
+D:\CC-labmid\q1\q1\obj\Debug\q1.csproj.CoreCompileInputs.cache
+D:\CC-labmid\q1\q1\obj\Debug\q1.exe
+D:\CC-labmid\q1\q1\obj\Debug\q1.pdb
