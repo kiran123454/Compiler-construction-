@@ -1,0 +1,12 @@
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\bin\Debug\lab 5.exe.config
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\bin\Debug\lab 5.exe
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\bin\Debug\lab 5.pdb
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab 5.csprojResolveAssemblyReference.cache
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab_5.Form1.resources
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab_5.Properties.Resources.resources
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab 5.csproj.GenerateResource.Cache
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab 5.exe
+D:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab 5.pdb
+F:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\bin\Debug\lab 5.exe.config
+F:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab 5.exe
+F:\BSCS Notes New\7th Semester\Compiler Construction\Lab New\lab 5\lab 5\obj\Debug\lab 5.pdb
