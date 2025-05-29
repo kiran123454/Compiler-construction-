@@ -1,0 +1,7 @@
+D:\CC-labmid\lab14\lab14\bin\Debug\lab14.exe.config
+D:\CC-labmid\lab14\lab14\bin\Debug\lab14.exe
+D:\CC-labmid\lab14\lab14\bin\Debug\lab14.pdb
+D:\CC-labmid\lab14\lab14\obj\Debug\lab14.csproj.AssemblyReference.cache
+D:\CC-labmid\lab14\lab14\obj\Debug\lab14.csproj.CoreCompileInputs.cache
+D:\CC-labmid\lab14\lab14\obj\Debug\lab14.exe
+D:\CC-labmid\lab14\lab14\obj\Debug\lab14.pdb
