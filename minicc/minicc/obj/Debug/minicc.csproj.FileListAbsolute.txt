@@ -1,0 +1,7 @@
+D:\CC-labmid\minicc\minicc\bin\Debug\minicc.exe.config
+D:\CC-labmid\minicc\minicc\bin\Debug\minicc.exe
+D:\CC-labmid\minicc\minicc\bin\Debug\minicc.pdb
+D:\CC-labmid\minicc\minicc\obj\Debug\minicc.csproj.AssemblyReference.cache
+D:\CC-labmid\minicc\minicc\obj\Debug\minicc.csproj.CoreCompileInputs.cache
+D:\CC-labmid\minicc\minicc\obj\Debug\minicc.exe
+D:\CC-labmid\minicc\minicc\obj\Debug\minicc.pdb
